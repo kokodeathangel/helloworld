@@ -1,4 +1,4 @@
-name: My SSR+
+name: Start build ssr+ two platforms by edvin
 
 on:
   workflow_dispatch:
